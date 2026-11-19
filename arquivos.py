@@ -1,3 +1,4 @@
+import os
 import hash
 import pandas as pd
 import pickle
@@ -12,7 +13,7 @@ def limpaLinha():
     sys.stdout.write("\033[K")  # Clear the line
 
 # Define endereços de arquivo
-root = os.environ.get("TAYLOR_LEGACY_ROOT", ".")
+root = join('.','')
 src_name = join(root,'taylor_swift_spotify.csv')
 tgt_name = join(root,'dados.bin')
 dir_letras = join(root,'letras')
@@ -23,7 +24,6 @@ freq_palavras = join(root,'freq_letras.bin')
 hash_bin = join(root,'hash.bin')
 pat_bin = join(root,'patricia.bin')
 
-import os
 API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 
 def getLyricsAux(df, path):

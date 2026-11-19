@@ -1,8 +1,0 @@
-[
- {"external_id":"demo:1","name":"Paper Satellites","album":"Night Signals","duration_ms":210000,"release_date":"2024-01-01","acousticness":0.1,"danceability":0.8,"energy":0.9,"valence":0.7,"tempo":122},
- {"external_id":"demo:2","name":"Paper Satellites Acoustic","album":"Morning Letters","duration_ms":225000,"release_date":"2024-02-01","acousticness":0.9,"danceability":0.3,"energy":0.2,"valence":0.4,"tempo":78},
- {"external_id":"demo:3","name":"Neon Rivers","album":"Night Signals","duration_ms":188000,"release_date":"2024-01-01","acousticness":0.15,"danceability":0.75,"energy":0.85,"valence":0.65,"tempo":118},
- {"external_id":"demo:4","name":"Quiet Windows","album":"Morning Letters","duration_ms":242000,"release_date":"2024-02-01","acousticness":0.88,"danceability":0.35,"energy":0.25,"valence":0.35,"tempo":82},
- {"external_id":"demo:5","name":"City in Reverse","album":"Night Signals","duration_ms":202000,"release_date":"2024-01-01","acousticness":0.2,"danceability":0.7,"energy":0.75,"valence":0.5,"tempo":110},
- {"external_id":"demo:6","name":"Letters from Home","album":"Morning Letters","duration_ms":231000,"release_date":"2024-02-01","acousticness":0.85,"danceability":0.4,"energy":0.3,"valence":0.45,"tempo":85}
-]
